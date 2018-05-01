@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-vega",
+  "version": "0.0.1",
+  "description": "ESLint Vega config",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "vega/eslint-config-vega",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "vega"
+  ],
+  "author": "Yuri Astrakhan <YuriAstrakhan@gmail.com>",
+  "license": "MIT",
+  "bugs": "https://github.com/vega/eslint-config-vega/issues",
+  "homepage": "https://github.com/vega/eslint-config-vega#readme",
+  "dependencies": {
+  }
+}
