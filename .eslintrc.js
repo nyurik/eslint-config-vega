@@ -16,6 +16,7 @@ module.exports = {
 
   rules: {
     'no-cond-assign': 0,
+    'no-fallthrough': ['error', { 'commentPattern': 'break omitted' }],
   },
 
 };
